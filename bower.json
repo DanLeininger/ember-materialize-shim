@@ -1,6 +1,6 @@
 {
   "name": "ember-materialize-shim",
   "dependencies": {
-    "materialize": "0.97.7"
+    "materialize": "^0.98.2"
   }
 }
